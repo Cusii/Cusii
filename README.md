@@ -1,4 +1,4 @@
-<img align="right" width="575" height="275" src="https://camo.githubusercontent.com/cb8ae0c1706f74e64d143435d74a169ae7c09e345dfa663eec1ab22fbfd89284/68747470733a2f2f692e6962622e636f2f434d576e4c427a2f506f72746164612e706e6">
+<img align="right" width="575" height="275" src="https://i.ibb.co/CMWnLBz/Portada.png">
 
 
 ## Hi, I'm David Cusi :wave:
