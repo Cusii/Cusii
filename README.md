@@ -3,7 +3,7 @@
 
 ## Hi, I'm David Cusi :wave:
 
--:computer: Developer Full-Stack Web
+-:computer: Software Developer/ Full-Stack Web
 
 -:blue_book: Software Engineer. (In progress) 
 
