@@ -1,4 +1,4 @@
-<img align="right" width="575" height="275" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.learnatrise.in%2Fcourses%2Ffull-stack-web-development-course%2F&psig=AOvVaw2kFHrOcz0DNuUxbZxNQXyJ&ust=1606410229939000&source=images&cd=vfe&ved=2ahUKEwirvJzKlp7tAhUnLrkGHUHcB-EQjRx6BAgAEAc">
+<img align="right" width="575" height="275" src="https://camo.githubusercontent.com/cb8ae0c1706f74e64d143435d74a169ae7c09e345dfa663eec1ab22fbfd89284/68747470733a2f2f692e6962622e636f2f434d576e4c427a2f506f72746164612e706e6">
 
 
 ## Hi, I'm David Cusi :wave:
