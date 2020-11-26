@@ -1,9 +1,4 @@
-<img width="30px" src="#" />
-<img align="right" alt="GIF width="575" height="275" src="https://i.ibb.co/RpjwdRp/b.gif" />
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://i.ibb.co/RpjwdRp/b.gif" />
-
-## Hi, I'm David Cusi :wave: [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
+## Hi, I'm David Cusi :wave: [Bgstatic][website] <img align="right" alt="GIF width="575" height="275" src="https://i.ibb.co/RpjwdRp/b.gif" />
 
 -:computer: Software Developer/ Full-Stack Web
 
