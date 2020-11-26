@@ -1,5 +1,4 @@
 <img width="30px" src="https://i.ibb.co/RpjwdRp/b.gif" />
-<img align="right" alt="GIF width="575" height="275" src="https://i.ibb.co/RpjwdRp/b.gif">
 
 
 ## Hi, I'm David Cusi :wave:
