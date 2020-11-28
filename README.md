@@ -2,6 +2,7 @@
 <img align="right" width="365" height="387" src="https://i.ibb.co/3z8nHJR/cat.jpg" />
 -:computer: Software Developer/ Full-Stack Web
 
+
 -:blue_book: Software Engineer. (In progress) 
 
 -:school: UTN: National Technology University. 
