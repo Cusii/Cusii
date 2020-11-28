@@ -1,4 +1,5 @@
-## Hi, I'm David Cusi :wave: <img align="right" alt="GIF width="575" height="275" src="https://i.ibb.co/RpjwdRp/b.gif" />
+## Hi, I'm David Cusi :wave:
+<img align="right" width="575" height="275" src="https://i.ibb.co/3z8nHJR/cat.jpg" />
 
 -:computer: Software Developer/ Full-Stack Web
 
