@@ -1,4 +1,4 @@
-<img align="right" width="475" height="497" src="https://i.ibb.co/3z8nHJR/cat.jpg" />
+<img align="right" width="465" height="487" src="https://i.ibb.co/3z8nHJR/cat.jpg" />
 ## Hi, I'm David Cusi :wave:
 
 -:computer: Software Developer/ Full-Stack Web
