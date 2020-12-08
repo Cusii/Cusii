@@ -38,7 +38,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗻𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://ibb.co/cc7dDBQ">
+        <img height="64px" src="https://i.ibb.co/WWY1ghf/Node-logo.jpg">
       </td>
     </tr>
     <tr valign="top">
