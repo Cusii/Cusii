@@ -24,37 +24,37 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗻𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://i.ibb.co/V2C1W2w/Node-logo.jpg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
         <img height="64px" src="https://i.ibb.co/KGjjgjs/MySQL.jpg">
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
