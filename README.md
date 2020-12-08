@@ -41,8 +41,6 @@
         <img height="64px" src="https://i.ibb.co/V2C1W2w/Node-logo.jpg">
       </td>
       <td width="25%" align="center">
-        <span></span><br><br><br>
-        <img height="64px" src="">
       </td>
     </tr>
     <tr valign="top">
