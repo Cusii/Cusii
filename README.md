@@ -40,8 +40,6 @@
         <span>𝗻𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://i.ibb.co/V2C1W2w/Node-logo.jpg">
       </td>
-      <td width="25%" align="center">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -59,8 +57,6 @@
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
       </td>
     </tr>
   </tbody>
