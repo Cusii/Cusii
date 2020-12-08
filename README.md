@@ -52,7 +52,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+        <img height="64px" src="https://i.ibb.co/KGjjgjs/MySQL.jpg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -70,4 +70,5 @@ Link de modelos https://github.com/kautukkundan/Awesome-Profile-README-templates
 link de stats https://github.com/anuraghazra/github-readme-stats
 link de youtube https://www.youtube.com/watch?v=PzSsk6Lb9A4
 link de emoticones https://gist.github.com/rxaviers/7360908
+Link de letras en ascii https://fsymbols.com/es/letras/
 -->
