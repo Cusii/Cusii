@@ -14,7 +14,7 @@
 
 -:notes: I like music
 
--:runner: I like run
+-:runner: I like sport
 
 ## Social media :mailbox_with_no_mail:
 [![](https://img.shields.io/badge/LinkedIn-Cusii-blue)](https://www.linkedin.com/in/cusii/)
