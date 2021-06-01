@@ -1,5 +1,3 @@
-<img align="right" width="365" height="387" src="">
-                                                                                   
 ## Hi, I'm David Cusi :wave:
 
 -:computer: Software Developer/ Full-Stack Web
@@ -7,14 +5,6 @@
 -:blue_book: Software Engineer. (In progress) 
 
 -:school: UTN: National Technology University. 
-
-## About me :man:
-
--:smile: I'm friendly
-
--:notes: I like music
-
--:runner: I like sport
 
 ## Social media :mailbox_with_no_mail:
 [![](https://img.shields.io/badge/LinkedIn-Cusii-blue)](https://www.linkedin.com/in/cusii/)
