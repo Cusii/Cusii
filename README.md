@@ -2,7 +2,7 @@
 
 -:computer: Software Developer/ Full-Stack Web
 
--:blue_book: Software Engineer. (In progress) 
+-:blue_book: Software Engineer.
 
 -:school: UTN: National Technology University. 
 
